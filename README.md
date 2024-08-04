@@ -60,6 +60,7 @@ Download the app from Google Play: [News App](https://play.google.com/store/apps
 https://github.com/user-attachments/assets/b7a92b03-7e62-481b-9bc3-95df1ec24853
 &nbsp;
 &nbsp;
+## 
 https://github.com/user-attachments/assets/39a0fd02-4fbb-4458-b758-433101e5f9fa
 
 ## Videos
