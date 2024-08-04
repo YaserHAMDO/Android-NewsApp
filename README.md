@@ -55,10 +55,10 @@ Download the app from Google Play: [News App](https://play.google.com/store/apps
   <img alt="screenshot" src="https://github.com/user-attachments/assets/65a2fd69-c1af-449c-9dc0-23498d9fb764" width="30%">
 </p>
 
-##Test
+## Videos
 
 https://github.com/user-attachments/assets/b7a92b03-7e62-481b-9bc3-95df1ec24853
-
+https://github.com/user-attachments/assets/39a0fd02-4fbb-4458-b758-433101e5f9fa
 ## Videos
 
 https://github.com/user-attachments/assets/b7a92b03-7e62-481b-9bc3-95df1ec24853
